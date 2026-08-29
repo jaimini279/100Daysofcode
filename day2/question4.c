@@ -6,7 +6,7 @@ int main() {
   float radius, Area, Circumference;
   float pi = 3.14159;
 
-  printf("enter the value of radius ");
+  print("enter the value of radius ");
   scanf("%f",&radius);
 
 Area = pi*radius*radius;
